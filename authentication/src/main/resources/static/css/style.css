@@ -1,0 +1,41 @@
+.content{
+	padding: 25px;
+	margin-top: 25px;
+	width: 40%;
+}
+.errors{
+	color: red;
+}
+.bg{
+	background-color: #9fc5f8;
+	padding: 20px;
+	border: 2px solid black;
+}
+.form-header{
+	text-align: center;
+	padding: 5px;
+	border-bottom: 2px solid black;
+}
+.inline{
+	display: flex;
+
+}
+.one{
+	width: 50%;
+	font-size: 1.25em;
+	margin-right: 15px;
+	border-right: 2px solid black;
+}
+.two{
+	width: 50%;
+}
+.submit{
+	width: 100%;
+}
+.top{
+	margin-top: 25px;
+}
+.profile{
+	margin: 25px;
+	width: 30%;
+}
